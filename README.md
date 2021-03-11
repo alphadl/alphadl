@@ -1,5 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alphadl&?count_private=true&show_icons=true&theme=tokyonight" />
 
+<img align='right' src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alphadl&custom_title=Weekly%20Coding%20Breakdown&layout=compact&theme=tokyonight" />
+
+
+
 ### Hi there 👋
 > <p align='left'>🙋‍♂️ I am a Ph.D candidate at The University of Sydney. </p>
 > 
