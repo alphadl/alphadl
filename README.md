@@ -5,7 +5,7 @@
 
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2> 
 
-> <p align='left'>🙋‍♂️ I am a senior researcher at JD Explore Academy, JD.com, and previously Ph.D. at The University of Sydney. </p>
+> <p align='left'>🙋‍♂️ I am a research scientist at JD Explore Academy, JD.com, and previously Ph.D. at The University of Sydney. </p>
 > 
 > <p align='left'>🔭 Working on deep learning for NLP, including language model pretraining, language understanding, generation, and translation.</p>
 > 
