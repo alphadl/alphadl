@@ -9,13 +9,13 @@
 > 
 > <p align='left'>🔭 Working on deep learning for NLP, including language model pretraining, language understanding, generation, and translation.</p>
 > 
-> <p align='left'>💪 I'm keen on bodybuilding (5 years+), marathon (completed first half marathon (126min) in Beijing-2016 and most recent half marathon (86min) in Sydney-2019. will resume training in 2024💪🏻). </p>
+> <p align='left'>💪 I'm keen on bodybuilding (5 years+), marathon (completed first half marathon (126min) in Beijing-2016 and most recent half marathon (86min) in Sydney-2019😅. <b>will resume training in 2024</b>💪🏻). </p>
 > 
 > <p align='left'>🥗 I (once😅) enjoy cooking. </p>
 > 
 > <p align='left'>🐈 I like to spend Sundays with my cats (two from 2020-2023, one from 2023). </p>
 
-## Star History⭐️
+## Star History ⭐️
 
 [![Star History Chart](https://api.star-history.com/svg?repos=WHU-ZQH/ChatGPT-vs.-BERT,Coldmist-Lu/ErrorAnalysis_Prompt,Romainpkq/ChatGPT4MT,alphadl/lookahead.pytorch,alphadl/darts.pytorch1.1&type=Date)](https://star-history.com/#WHU-ZQH/ChatGPT-vs.-BERT&Coldmist-Lu/ErrorAnalysis_Prompt&Romainpkq/ChatGPT4MT&alphadl/lookahead.pytorch&alphadl/darts.pytorch1.1&Date)
 
