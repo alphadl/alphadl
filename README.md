@@ -7,7 +7,7 @@
 
 > <p align='left'>🙋‍♂️ I am a principal researcher of LLM at an AGI startup, and worked at JD Explore Academy and Tencent AI Lab, and previously Ph.D. at Univ. of Sydney. </p>
 > 
-> <p align='left'>🔭 Working on deep learning for NLP, including language model pretraining, language understanding, generation, and translation.</p>
+> <p align='left'>🔭 Working on deep learning for NLP, including language model pretraining, language understanding, generation, reasoning, and translation.</p>
 > 
 > <p align='left'>💪 I'm keen on bodybuilding (5 years+), marathon (completed first half marathon (126min) in Beijing-2016 and most recent half marathon (86min) in Sydney-2019😅. <b>will resume training in 2024</b>💪🏻). </p>
 > 
