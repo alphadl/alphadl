@@ -5,7 +5,7 @@
 
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2> 
 
-> <p align='left'>🙋‍♂️ I am a principal researcher of LLM at an AGI startup, and worked at JD Explore Academy and Tencent AI Lab, and previously Ph.D. at Univ. of Sydney. </p>
+> <p align='left'>🙋‍♂️ I previously worked at JD Explore Academy and Tencent AI Lab, and previously Ph.D. at Univ. of Sydney. </p>
 > 
 > <p align='left'>🔭 Working on deep learning for NLP, including language model pretraining, language understanding, generation, reasoning, and translation.</p>
 > 
