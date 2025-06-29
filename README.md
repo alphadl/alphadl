@@ -5,7 +5,7 @@
 
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2> 
 
-> <p align='left'>🙋‍♂️ I worked at JD Explore Academy and Tencent AI Lab, and previously Ph.D. at Univ. of Sydney. </p>
+> <p align='left'>🙋‍♂️ I work as the chief scientist at a startup (raised more than 50M$) and hold an adjunct researcher position at ZJU, I worked at JD Explore Academy and Tencent AI Lab, and Ph.D. at the USydney. </p>
 > 
 > <p align='left'>🔭 Working on the whole pipeline of LLM R&D and their human-centric applications, including efficient and sufficient training, alignment, evaluations, compression, multilinguality, multimodality and much more.</p>
 > 
