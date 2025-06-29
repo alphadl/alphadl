@@ -7,7 +7,7 @@
 
 > <p align='left'>🙋‍♂️ I worked at JD Explore Academy and Tencent AI Lab, and previously Ph.D. at Univ. of Sydney. </p>
 > 
-> <p align='left'>🔭 Working on the whole pipeline of LLM R&D, including efficient and sufficient training, alignment, evaluations, compression, multilinguality, multimodality and much more.</p>
+> <p align='left'>🔭 Working on the whole pipeline of LLM R&D and their human-centric applications, including efficient and sufficient training, alignment, evaluations, compression, multilinguality, multimodality and much more.</p>
 > 
 > <p align='left'>💪 I'm keen on bodybuilding (5 years+), marathon (completed first half marathon (126min) in Beijing-2016 and most recent half marathon (86min) in Sydney-2019😅. <b>will resume training in 2024</b>💪🏻). </p>
 > 
