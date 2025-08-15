@@ -15,9 +15,5 @@
 > 
 > <p align='left'>🐈 I like to spend Sundays with my cats (two from 2020-2023, one from 2023). </p>
 
-## Star History ⭐️
-
-[![Star History Chart](https://api.star-history.com/svg?repos=WHU-ZQH/ChatGPT-vs.-BERT,Coldmist-Lu/ErrorAnalysis_Prompt,Romainpkq/ChatGPT4MT,alphadl/lookahead.pytorch,alphadl/darts.pytorch1.1&type=Date)](https://star-history.com/#WHU-ZQH/ChatGPT-vs.-BERT&Coldmist-Lu/ErrorAnalysis_Prompt&Romainpkq/ChatGPT4MT&alphadl/lookahead.pytorch&alphadl/darts.pytorch1.1&Date)
-
 
 ![](https://komarev.com/ghpvc/?username=alphadl)
