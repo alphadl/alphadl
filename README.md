@@ -14,6 +14,16 @@
 > <p align='left'>🥗 I (once😅) enjoy cooking. </p>
 > 
 > <p align='left'>🐈 I like to spend Sundays with my cats (two from 2020-2023, one from 2023). </p>
+> 
+> <p align='left'>🔥 <b>Recent open-source projects on agentic AI</b>, together covering data generation, reuse, evaluation, and context efficiency: </p>
 
+* 🔄 [**AgentHER**](https://github.com/alphadl/AgentHER) 
+  *Hindsight relabeling of failed trajectories for training.*
+* 🧬 [**AgentSynth**](https://github.com/alphadl/AgentSynth) 
+  *Synthetic agent data from scratch with execution validation.*
+* 📏 [**AdaRubric**](https://github.com/alphadl/adarubrics) 
+  *Dynamic rubric evaluation for trajectory quality.*
+* 🗜️ [**trajectory_tokenization**](https://github.com/alphadl/trajectory_tokenization) 
+  *ReAct with compressed history for long-horizon context.*
 
 ![](https://komarev.com/ghpvc/?username=alphadl)
