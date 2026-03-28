@@ -25,7 +25,7 @@
   *Dynamic rubric evaluation for trajectory quality.*
 * 🗜️ [**trajectory_tokenization**](https://github.com/alphadl/trajectory_tokenization) 
   *ReAct with compressed history for long-horizon context.*
-* 📐 [**SigFibPO**](https://github.com/alphadl/SigFibPO) 
-  *SNR-guided trust regions and causal fiber residuals for multi-domain RLVR (research code + verl hook).*
+* 📡 [**SigFibPO**](https://github.com/alphadl/SigFibPO)
+  *SNR-calibrated trust regions and causal fiber residuals for multi-domain RLVR (research code + verl hook).*
 
 ![](https://komarev.com/ghpvc/?username=alphadl)
