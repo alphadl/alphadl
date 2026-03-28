@@ -15,7 +15,7 @@
 > 
 > <p align='left'>🐈 I like to spend Sundays with my cats (two from 2020-2023, one from 2023). </p>
 > 
-> <p align='left'>🔥 <b>Recent open-source projects on agentic AI</b>, together covering data generation, reuse, evaluation, and context efficiency: </p>
+> <p align='left'>🔥 <b>Recent open-source projects</b> — agentic AI (data, evaluation, context) and LLM alignment / policy optimization: </p>
 
 * 🔄 [**AgentHER**](https://github.com/alphadl/AgentHER) 
   *Hindsight relabeling of failed trajectories for training.*
@@ -25,5 +25,7 @@
   *Dynamic rubric evaluation for trajectory quality.*
 * 🗜️ [**trajectory_tokenization**](https://github.com/alphadl/trajectory_tokenization) 
   *ReAct with compressed history for long-horizon context.*
+* 📐 [**SigFibPO**](https://github.com/alphadl/SigFibPO) 
+  *SNR-guided trust regions and causal fiber residuals for multi-domain RLVR (research code + verl hook).*
 
 ![](https://komarev.com/ghpvc/?username=alphadl)
