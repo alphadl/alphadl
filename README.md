@@ -5,7 +5,7 @@
 
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2> 
 
-> <p align='left'>🙋‍♂️ I am building an agentic AI econsystem at Alibaba. I was the chief scientist at a startup (raised more than 50M$), previously worked at JD Explore Academy and Tencent AI Lab, and held an adjunct researcher position at ZJU. </p>
+> <p align='left'>🙋‍♂️ I am building a deterministic and scalable agentic AI ecosystem at Alibaba. I was the chief scientist at a startup (raised more than 50M$), previously worked at JD Explore Academy and Tencent AI Lab, and held an adjunct researcher position at ZJU. </p>
 > 
 > <p align='left'>🔭 Working on the whole pipeline of LLM R&D and their human-centric applications, including efficient and sufficient training, alignment, evaluations, compression, multilinguality, multimodality, agentic application, and much more.</p>
 > 
